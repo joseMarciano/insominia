@@ -1,0 +1,31 @@
+_id: req_4a1acd6b746f4fd1aec9c116be7509ef
+type: Request
+parentId: fld_c04b84365464419690136c951ccb35b3
+modified: 1673393789958
+created: 1671761023069
+url: "{{ _.url }}wallets/f5a90d872d214a8ca113eee307afe6f4"
+name: Edit
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": "f5a90d872d214a8ca113eee307afe6f4",
+    	"name": "Wallet edited",
+    	"description": "Wallet long term",
+    	"color": "FFFD0"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665446699421.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,26 @@
+_id: req_86e64297d11f437cae4c4ab7da43e846
+type: Request
+parentId: fld_135842ffd007492381609add6af136ba
+modified: 1665621758722
+created: 1665446699434
+url: "{{ _.url }}cast_members"
+name: List
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a46e0b202a3c40f388417ad5c3f2e583
+    name: search
+    value: v
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1665446699434
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

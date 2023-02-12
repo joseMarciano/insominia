@@ -1,0 +1,29 @@
+_id: req_578850ecda044f34bfa0a95979042446
+type: Request
+parentId: fld_c04b84365464419690136c951ccb35b3
+modified: 1674005162975
+created: 1671761017852
+url: "{{ _.url }}wallets"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "Long Term",
+    	"color": "FFFD0"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665446699434
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

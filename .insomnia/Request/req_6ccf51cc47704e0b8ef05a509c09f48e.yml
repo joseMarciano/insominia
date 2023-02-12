@@ -1,0 +1,41 @@
+_id: req_6ccf51cc47704e0b8ef05a509c09f48e
+type: Request
+parentId: fld_c04b84365464419690136c951ccb35b3
+modified: 1674404536547
+created: 1671761001521
+url: "{{ _.url }}wallets"
+name: List
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a46e0b202a3c40f388417ad5c3f2e583
+    name: filter
+    value: ""
+    description: ""
+    disabled: true
+  - id: pair_1cc7671f4d3a41549b573b410d176148
+    name: offset
+    value: "2"
+    description: ""
+    disabled: true
+  - id: pair_a38610758c0941f99953fc4d1befc6f9
+    name: ""
+    value: ""
+    description: ""
+    disabled: true
+  - id: pair_7c288df94fc04606ad37e8bee9138bb7
+    name: limit
+    value: "1"
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1665446699409
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

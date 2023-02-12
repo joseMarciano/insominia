@@ -1,0 +1,14 @@
+_id: env_72ed7ef0c09b4188a4bc1d0208e80d6e
+type: Environment
+parentId: env_0df52743b482b391f30bea6179472d9ecf8dffc5
+modified: 1671761072534
+created: 1665446722129
+name: ADM CATALOG
+data:
+  url: http://localhost:8080/api/
+dataPropertyOrder:
+  "&":
+    - url
+color: "#ff00c8"
+isPrivate: false
+metaSortKey: 1665446722129

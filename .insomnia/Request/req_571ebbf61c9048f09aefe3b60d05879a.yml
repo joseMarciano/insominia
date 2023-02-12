@@ -1,0 +1,29 @@
+_id: req_571ebbf61c9048f09aefe3b60d05879a
+type: Request
+parentId: fld_135842ffd007492381609add6af136ba
+modified: 1673393782633
+created: 1665446807572
+url: ""
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "s",
+    	"type": "DIRECTOR"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665446699334
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

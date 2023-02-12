@@ -1,0 +1,32 @@
+_id: req_016770b179ae4b48bcb9ec1dd25cf29e
+type: Request
+parentId: fld_5125d206a2e644e0974744d350deac00
+modified: 1675130825685
+created: 1673390037066
+url: "{{ _.url }}executions/7c71f32ab4f44325bf88edd4e0aef06e"
+name: Edit
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": "7c71f32ab4f44325bf88edd4e0aef06e",
+    	"profitPercentage": 8.04,
+    	"executedQuantity": 1,
+    	"executedPrice": 1.97,
+    	"executedAt": "2023-01-10T23:24:35.229493Z"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665446699421.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

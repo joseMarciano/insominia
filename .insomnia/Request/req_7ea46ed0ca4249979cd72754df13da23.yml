@@ -1,0 +1,21 @@
+_id: req_7ea46ed0ca4249979cd72754df13da23
+type: Request
+parentId: fld_c04b84365464419690136c951ccb35b3
+modified: 1673394113128
+created: 1671761012709
+url: "{{ _.url }}wallets/8e3b3639760b4f5c87410292725cfe66"
+name: By Id
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1665446699459
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
