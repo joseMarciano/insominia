@@ -1,0 +1,21 @@
+_id: req_be92cf78aa954990868bbfdc7608e39a
+type: Request
+parentId: fld_1fbf0971f91f48f0a8208843b6764e04
+modified: 1676210763045
+created: 1676210669897
+url: "{{ _.url }}wallets/8e3b3639760b4f5c87410292725cfe66invesves-entasdasdaallc"
+name: PnlOpen
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1665446699446.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,41 @@
+_id: req_ad395bff1e8646ef80200f92893bab7b
+type: Request
+parentId: fld_7db6f2e320c04971b9f372155fcfac96
+modified: 1675304561602
+created: 1672435735007
+url: "{{ _.url }}stocks"
+name: List
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a46e0b202a3c40f388417ad5c3f2e583
+    name: filter
+    value: pet
+    description: ""
+    disabled: false
+  - id: pair_1cc7671f4d3a41549b573b410d176148
+    name: offset
+    value: "1"
+    description: ""
+    disabled: true
+  - id: pair_a38610758c0941f99953fc4d1befc6f9
+    name: direction
+    value: desc
+    description: ""
+    disabled: true
+  - id: pair_7c288df94fc04606ad37e8bee9138bb7
+    name: limit
+    value: "1"
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1665446699409
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

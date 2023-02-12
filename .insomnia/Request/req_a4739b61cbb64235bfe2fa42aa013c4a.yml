@@ -1,0 +1,21 @@
+_id: req_a4739b61cbb64235bfe2fa42aa013c4a
+type: Request
+parentId: fld_c04b84365464419690136c951ccb35b3
+modified: 1672276328964
+created: 1671761028016
+url: "{{ _.url }}wallets/586f784f4ca8433185a6140322f1661f"
+name: Delete
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1665446699415.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_daa7414d6d3f46729bc8f6da44135e7c
+type: Request
+parentId: fld_5125d206a2e644e0974744d350deac00
+modified: 1674173752473
+created: 1674005116647
+url: "{{ _.url }}executions/sell/6884c7588f0f4eafbd24b20c7cb17aff"
+name: Sell
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"executedQuantity": 70,
+    	"executedPrice": 10.00000,
+    	"executedAt": "2023-01-10T23:24:35.229493Z"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665446699418.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

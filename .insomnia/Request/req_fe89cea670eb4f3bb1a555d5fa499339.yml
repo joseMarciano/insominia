@@ -1,0 +1,30 @@
+_id: req_fe89cea670eb4f3bb1a555d5fa499339
+type: Request
+parentId: fld_135842ffd007492381609add6af136ba
+modified: 1673393783980
+created: 1665446852801
+url: ""
+name: Edit
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": "02b87a1f-7076-4902-877a-de97a0ae0ee1",
+    	"name": "Vin Diesel edited",
+    	"type": "ACTOR"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1665446699284
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

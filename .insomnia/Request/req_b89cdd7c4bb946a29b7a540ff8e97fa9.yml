@@ -1,0 +1,35 @@
+_id: req_b89cdd7c4bb946a29b7a540ff8e97fa9
+type: Request
+parentId: fld_5125d206a2e644e0974744d350deac00
+modified: 1676210594813
+created: 1673390037063
+url: "{{ _.url }}executions"
+name: Create
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"stockId": "48a81a91a0ae4573bed8960b0a89e3d1",
+    	"walletId": "51b9b0e56c1d461587095fef4382c532",
+    	"profitPercentage": 8,
+    	"executedQuantity": 99.54,
+    	"executedPrice": 2,
+    	"executedAt": "2023-01-10T23:24:35.229493Z"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_aaa0d7436ce344dbb33a1b400b66a5f0
+    disabled: false
+authentication: {}
+metaSortKey: -1665446699434
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

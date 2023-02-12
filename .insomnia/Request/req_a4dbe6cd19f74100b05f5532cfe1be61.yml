@@ -1,0 +1,51 @@
+_id: req_a4dbe6cd19f74100b05f5532cfe1be61
+type: Request
+parentId: fld_5125d206a2e644e0974744d350deac00
+modified: 1674404578204
+created: 1673390037052
+url: "{{ _.url }}executions"
+name: List
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_1cc7671f4d3a41549b573b410d176148
+    name: offset
+    value: "2"
+    description: ""
+    disabled: true
+  - id: pair_a38610758c0941f99953fc4d1befc6f9
+    name: ""
+    value: ""
+    description: ""
+    disabled: true
+  - id: pair_7c288df94fc04606ad37e8bee9138bb7
+    name: limit
+    value: "1"
+    description: ""
+    disabled: true
+  - id: pair_c9c627233ff24ba690e2a31a269be120
+    name: stockId
+    value: 6c823a367ec04ee8b7eb7487e789d1fb
+    description: ""
+    disabled: false
+  - id: pair_775dda015e9f48c2b8ba1003d65e753e
+    name: walletId
+    value: 51b9b0e56c1d461587095fef4382c532
+    description: ""
+    disabled: false
+  - id: pair_a278bb2cf09c499491f2af96ad55afbf
+    name: direction
+    value: asc
+    description: ""
+    disabled: true
+headers: []
+authentication: {}
+metaSortKey: -1665446699409
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
