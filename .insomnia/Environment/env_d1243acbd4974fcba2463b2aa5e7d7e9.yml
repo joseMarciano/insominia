@@ -1,0 +1,16 @@
+_id: env_d1243acbd4974fcba2463b2aa5e7d7e9
+type: Environment
+parentId: env_0df52743b482b391f30bea6179472d9ecf8dffc5
+modified: 1676210792318
+created: 1671761049073
+name: INVESTMENT MANAGMENT
+data:
+  url: http://localhost:8080/api/
+  url-calculation: http://localhost:8081/api/
+dataPropertyOrder:
+  "&":
+    - url
+    - url-calculation
+color: "#7d69cb"
+isPrivate: false
+metaSortKey: 1671761049074
